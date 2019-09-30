@@ -1,8 +1,13 @@
 ## Process
 
 Description of the contents of this folder and the logic of your data → retinal variables mapping.
+
 Orientation Sketch: This sketch uses orientation to represent time in the form of hours, minutes and seconds. Hours, minutes and seconds are represented by the alphabets H, M and S respectively and the change in the orientation of these alphabets depicts the time. 
+
 Circle Sketch: This sketch represents hours, minutes and seconds as proportions of a circle. Each of the attributes of time is represented with a line of different thickness. Each proportion of the circle defined by each one of the lines is a different color and the movement of these lines at different speeds causes the respective areas to increase or decrease, thus representing the time. 
+
 Clock sketch: This sketch functions like a basic clock with the lenght of the hands defining hours, minutes and seconds.
+
 Rectangle sketch: This sketch depicts 3 rectangles or bars in vertical orientation, the height of which represents hours, minutes and seconds. Gradual increments in the height at different speeds for hours, minutes and seconds represent the time. This idea uses size to depict the differences in the attributes of time.
+
 Texture skecth: Here, the width of the lines define hours, minutes and seconds and number of each of these lines present at any point depict the number hours, minutes or seconds they represent.
