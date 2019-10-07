@@ -11,3 +11,13 @@ Clock sketch: This sketch functions like a basic clock with the lenght of the ha
 Rectangle sketch: This sketch depicts 3 rectangles or bars in vertical orientation, the height of which represents hours, minutes and seconds. Gradual increments in the height at different speeds for hours, minutes and seconds represent the time. This idea uses size to depict the differences in the attributes of time.
 
 Texture skecth: Here, the width of the lines define hours, minutes and seconds and number of each of these lines present at any point depict the number hours, minutes or seconds they represent.
+
+Week 6: Calender Time sketches
+
+Circle moving on path: This sketch uses value, size and position to depict the different days of the week along a repititive path formed by rectangles. A smaller circle moves along the path to mark the day of the week and the day of the month with numbers. The completeness of the circle's circumference varies to depict the approximate time of day.
+
+Concentric circles: This sketch uses size and position to depict the seasons of the year and consecutive months. The outer circle is divided into 4 to depct the seasons and the inner circle is divided into 12 to depict the months of the year. A smaller circle moves along the segments to depict the month and season at any point in time. The radius of this smaller circle varies to depict the day of the week.
+
+Circles forming square: This sketch represents the day of the week and the day of the month using a square that is formed by consecutive circles and completeness of the square marks the exact day at any point in time. The square itself moves along a linear path to depict the month of the year. The circles are color coded to represent the day of the week. 
+
+Circle on Rectangle: This example depicts a circle moving along a segmented rectangle. It uses position and size to depict the season and month of the year. 
