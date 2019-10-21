@@ -1,0 +1,3 @@
+Final combination of clock and calendar time
+
+In this version, I combined the idea of the green, yellow and blue arcs representing hours, minutes and seconds respectively with a circle moving along the height of consecutive rectabgles to represent the months of the year. The arcs move along the height of the rectangle to depict the completion of the days of a month and each time that the month is completed, the arcs move on to the next adjacent rectangle. The colors changing in the background depict the 4 seasons of the year. I have tried to use position, color and shape to depict hours, minutes, seconds as well as days of the month, months of the year and seasons of the year.
