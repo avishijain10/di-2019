@@ -26,3 +26,9 @@ https://www.wsj.com/articles/decades-after-nuclear-test-u-s-studies-cancer-fallo
 https://www.ctbto.org/nuclear-testing/the-effects-of-nuclear-testing/general-overview-of-theeffects-of-nuclear-testing/
 
 https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/i-131
+
+Sketch4: In this sketch, I have used plotted line graphs to incorporate the additional information which is the increase in cancer rates in the four greatest nuclear powers- USA, Russia, France and UK from 1950 to 2017. The colors represent the 4 different countries and the line graphs also depict the original data whuch is the total number of nuclear tests in each country from 1945 to 2017.
+
+Sketch5: In this version, I have incorporated the line graphs representing the cancer rate increase data with one of my previous sketches that uses rectangles to show the number of nuclear tests in each country.
+
+Sketch6: In this version, the line graphs showing the increase in cancer rates in the 4 countries are incorporated with stacked bar graphs that depict the number of nuclear tests in the 4 most important nuclear powers.
