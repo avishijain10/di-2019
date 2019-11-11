@@ -32,3 +32,11 @@ Sketch4: In this sketch, I have used plotted line graphs to incorporate the addi
 Sketch5: In this version, I have incorporated the line graphs representing the cancer rate increase data with one of my previous sketches that uses rectangles to show the number of nuclear tests in each country.
 
 Sketch6: In this version, the line graphs showing the increase in cancer rates in the 4 countries are incorporated with stacked bar graphs that depict the number of nuclear tests in the 4 most important nuclear powers.
+
+Week 10
+
+Sketch 1: All countries tests and Cancer rates
+ In these graphs, I have intended to show the total number of tests in each of the eight nuclear countries and the total yield from these tests. I have then added my additional data set of the cancer rates in each of these countries from 1990 to 2017 in order to show the correlation between the nuclear fallout from the testing and the increase in cancer rates.
+
+Sketch 2: USA Tests and Cancer rates
+In my second set of graphs, I have focussed on nuclear testing only in the United States. The first graph represents the atmospheric and underground tests in the United States alone. The secong graph depicts the gradual increase and decrease in cancer rates for different cancer types within the US, most of which are a result of nuclear fallout and are caused due to the accumulation of radioactive isotopes released duuring nuclear explosions. The last graph depicts the deposition of different radioactive isotopes released during the nuclear explosions. The quantity of depositions in the NTS in US has been compared to the global deposi
