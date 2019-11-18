@@ -1,33 +1,27 @@
 #### List of URLs pointing to publicly accessible data (including a brief description of the subject matter & data format)
 
-For example, the USGS's feeds of seismic events could be summarized as:
 
-- Description: Realtime feeds of recent earthquake times, locations, and magnitudes
-- Provider: the US Geological Survey
-- Format: multiple CSV files with different time/magnitude windows
-- URL: https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php
+Description: Data and statistics regarding cigarette smoking trends among people overtime 
+Provider: Centers for Disease Control and Prevention
+Format: Multiple tables and graphs linked to PDFs
+URL: https://www.cdc.gov/tobacco/data_statistics/fact_sheets/adult_data/cig_smoking/index.htm
 
-Description:
-Provider:
-Format:
-URL:
+Description: Data regarding sleep durations, patterns and health related impacts on people of different ages and sexes
+Provider: Centers for Disease Control and Prevention
+Format: Multiple tables and graphs linked to PDFs
+URL: https://www.cdc.gov/sleep/data_statistics.html
 
-Description:
-Provider:
-Format:
-URL:
+Description: Data and statistics regarding population growth and other aspects of population in the US
+Provider: Our World in Data
+Format: Several graphs and tables linked to CSV files 
+URL: https://ourworldindata.org/world-population-growth
 
-Description:
-Provider:
-Format:
-URL:
+Description: Data regarding the amount and impact of plastic pollution on the environment
+Provider: Our World in data
+Format: Multiple CSV files with global plastic production, disposal and indutrial plastic consumption and production
+URL: https://ourworldindata.org/plastic-pollution
 
-Description:
-Provider:
-Format:
-URL:
-
-Description:
-Provider:
-Format:
-URL:
+Description: Data regarding the various wars and acts of terrorism conducted in history and the consequences such as death rates
+Provider: Our World in Data
+Format: Multiple CSV files 
+URL: https://ourworldindata.org/war-and-peace
