@@ -21,3 +21,7 @@
 
 10. Movies/Media- Movies, TV shows and other forms of media have a significant impact on their audience. What kind of problematic content is most often displayed in movies and TV shows? Related topics include profits of the industry, objectification of women in media, different genres, cultural appropriation, etc.
 
+Final Project Interactive Chart Link
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vT73aLYZG9V63yZCz4dUOaTO0DdKhgH92fh59-Q2CTwSATltn97ZqNw7tGapEijY8TyOkUrQisz8IMe/pubhtml?gid=1604587629&single=true
+
